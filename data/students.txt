@@ -1,0 +1,4 @@
+Id: 1, Ad: Rashid, Yas: 33
+Id: 2, Ad: Aylin, Yas: 4
+Id: 7, Ad: Ilkisha, Yas: 29
+Id: 8, Ad: Cekson, Yas: 35
